@@ -18,12 +18,10 @@
 - [시스템 아키텍처](#-시스템-아키텍처)
 - [화면 구성](#-화면-구성-uiux)
 - [API 명세](#-api-명세)
-- [성능 최적화](#-성능-최적화)
 - [설치 및 실행](#-설치-및-실행)
-- [배포](#-배포)
-- [문제 해결 과정](#-문제-해결-과정)
-- [프로젝트 구조](#-프로젝트-구조)
-- [기여 방법](#-기여-방법)
+- [배포 및 CI/CD](#️-배포-및-cicd)
+- [학습 및 문제 해결 경험](#-학습-및-문제-해결-경험)
+- [팀원 소개](#-팀원-소개)
 
 ## 🎯 프로젝트 소개
 
@@ -237,7 +235,7 @@ POST /todos
 
 </details>
 <br/>
-※ 기타 API는 [Google Sheet API 명세서](https://docs.google.com/spreadsheets/d/1tYVWuJSnXLTne6YwKYkm4hpgfGWWCIp1jFYymh0M0o0/edit?gid=1313629170#gid=1313629170) 참고
+※ 기타 API는 <a href="https://docs.google.com/spreadsheets/d/1tYVWuJSnXLTne6YwKYkm4hpgfGWWCIp1jFYymh0M0o0/edit?gid=1313629170#gid=1313629170">Google Sheet</a> 참고
 
 ## 🚀 설치 및 실행
 
